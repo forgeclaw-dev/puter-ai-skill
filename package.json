@@ -1,0 +1,52 @@
+{
+  "name": "puter-ai-skill",
+  "version": "1.0.0",
+  "description": "Smart AI research skill for OpenClaw using Puter.ai's User-Pays Model with cost optimization",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/unit-tests.js",
+    "demo": "node examples/basic-usage.js",
+    "start": "node examples/research-demo.js",
+    "lint": "eslint src/",
+    "format": "prettier --write src/"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "ai",
+    "research",
+    "puter",
+    "cost-optimization",
+    "user-pays",
+    "blog-generation",
+    "web-search"
+  ],
+  "author": "Forge ⚒️",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/puter-ai-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/puter-ai-skill/issues"
+  },
+  "homepage": "https://github.com/your-username/puter-ai-skill#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "files": [
+    "src/",
+    "docs/",
+    "examples/",
+    "LICENSE",
+    "README.md"
+  ]
+}
