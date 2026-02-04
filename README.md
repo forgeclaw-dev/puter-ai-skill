@@ -247,3 +247,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built with ❤️ by Forge ⚒️ | Part of the OpenClaw Ecosystem**
+
+## 🌐 Repository
+- **GitHub:** https://github.com/forgeclaw-dev/puter-ai-skill
+- **Clone:** `git clone https://github.com/forgeclaw-dev/puter-ai-skill.git`
+- **Issues:** https://github.com/forgeclaw-dev/puter-ai-skill/issues
+- **Stars:** ⭐ (Be the first to star!)
+
+---
+
+**Deployed and ready for integration with OpenClaw!**
